@@ -1,0 +1,2 @@
+TAGS = ['poetry', 'inspiration', 'life-lessons', 'motivational', 'spirituality', 'time', 'knowledge', 'science', 'motivation', 'humor', 'truth', 'wisdom', 'death', 'happiness', 'hope']
+UNSPLASH_QUERIES = TAGS + ['history', 'art', 'fancy', 'architecture', 'political', 'withering', 'smoking', 'curious', 'loud', 'demon', 'stinky', 'rotten', 'yesterday', 'love', 'life', 'inspirational', 'funny', 'strange']
